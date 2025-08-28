@@ -62,6 +62,12 @@ body {
 .btn-entrar:hover {
     background: #00b7ff;
 }
+
+/* Geral Section */
+.content,
+.game {
+    height: 100vh;
+}
   
 /* Conteúdo principal */
 .content {

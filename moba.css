@@ -63,6 +63,12 @@ body {
     background: #eca92c;
 }
   
+/* Geral Section */
+.content,
+.game {
+    height: 100vh;
+}
+
 /* Conteúdo principal */
 .content {
     display: flex;

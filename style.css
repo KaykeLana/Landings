@@ -62,7 +62,13 @@ body {
 .btn-entrar:hover {
     background: #cc0000;
 }
-  
+ 
+/* Geral Section */
+.content,
+.game {
+    height: 100vh;
+}
+
 /* Conteúdo principal */
 .content {
     display: flex;
