@@ -72,9 +72,9 @@ body {
 /* Conteúdo principal */
 .content {
     display: flex;
-    align-items: center;
+    align-items: top;
     justify-content: space-between;
-    padding: 40px 80px;
+    padding: 0 80px;
     gap: 50px;
     background: url('images/Background.jpg') no-repeat;
     background-size: cover;
@@ -82,8 +82,8 @@ body {
   }
   
 .text{
-    margin: 50px 0 0 0;
     max-width: 600px;
+    margin-top: 100px;
 }
   
 .text-title{
@@ -94,7 +94,7 @@ body {
         0 0 10px #ff9900,
         0 0 20px #ff6600,
         0 0 40px #ff3300;
-    margin: 0 0 30px 0;
+    
 }
   
 .FearZone{
@@ -130,7 +130,7 @@ body {
 /* Section game*/
 .game {
     display: flex;
-    align-items: center;
+    align-items: top;
     justify-content: space-between;
     padding: 40px 80px;
     gap: 50px;
@@ -140,7 +140,7 @@ body {
 }
 
 .Amnesia{
-    width: 530px;
+    width: 600px;
 }
   
 .ficha {
