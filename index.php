@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Login - Página de Jogos</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="autentica.css">
 </head>
 <body>
   <div class="container">
